@@ -1,10 +1,7 @@
 ## Simplicity
 Simple SDDM theme
 
-# This repo is hosted on [GitLab](https://gitlab.com/isseigx/simplicity-sddm-theme) now
-
-![Screenshot](https://i.imgur.com/o1QDc26.png)
-
+# This is a fork to change background, see root on [GitLab](https://gitlab.com/isseigx/simplicity-sddm-theme) now
 
 ### Install
 Move simplicity folder to 
